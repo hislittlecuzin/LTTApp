@@ -1,0 +1,9 @@
+F:\Documents\Programs\LTTApp\LTTApp\bin\Debug\LTTApp.exe
+F:\Documents\Programs\LTTApp\LTTApp\bin\Debug\LTTApp.pdb
+F:\Documents\Programs\LTTApp\LTTApp\obj\Debug\LTTApp.csprojResolveAssemblyReference.cache
+F:\Documents\Programs\LTTApp\LTTApp\obj\Debug\LTTApp.Form1.resources
+F:\Documents\Programs\LTTApp\LTTApp\obj\Debug\LTTApp.Properties.Resources.resources
+F:\Documents\Programs\LTTApp\LTTApp\obj\Debug\LTTApp.csproj.GenerateResource.Cache
+F:\Documents\Programs\LTTApp\LTTApp\obj\Debug\LTTApp.csproj.CoreCompileInputs.cache
+F:\Documents\Programs\LTTApp\LTTApp\obj\Debug\LTTApp.exe
+F:\Documents\Programs\LTTApp\LTTApp\obj\Debug\LTTApp.pdb
